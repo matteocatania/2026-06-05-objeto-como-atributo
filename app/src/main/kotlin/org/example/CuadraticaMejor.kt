@@ -1,6 +1,6 @@
 package org.example
 class CuadraticaMejor:Cuadratica(){
-    override toString():String{
+    override fun toString():String{
         return "Soy una cuadratica mejor"
     }
 }
